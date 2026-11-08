@@ -37,3 +37,7 @@ Read the numbered documents in order; each builds only on the ones before it.
 ## License
 
 [MIT](LICENSE)
+
+## 上游来源
+
+本仓库 fork 自 deepseek-ai/dsh-superagent-prototype。
